@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ### About me
 Harry is a currently work in project human with unknown capacities. Sometimes he can do some cool stuff with computers, like:
-- programming in Python
+- programming in Python / doing web stuff
 - building a full fonctionnal web server and things like that
 - idk one time i used photoshop i created a espagonl and people found this funny so i'm a dEsIgNeR :relaxed:
+
+### Contact me
+PLEASE DONT IM A BAGUETTE GUY
+[@HarryHauer](https://twitter.com/harrypfff) - harry@hcfw.xyz
