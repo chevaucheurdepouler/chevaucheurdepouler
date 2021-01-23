@@ -24,5 +24,4 @@ Harry is a currently work in project human with unknown capacities. Sometimes he
 - idk one time i used photoshop i created a espagonl and people found this funny so i'm a dEsIgNeR :relaxed:
 
 ### Contact me
-PLEASE DONT IM A BAGUETTE GUY
 [@HarryHauer](https://twitter.com/harrypfff) - harry@hcfw.xyz
