@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **geekcatfr/geekcatfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/37616962?s=460&u=3ef9ae978dc7a56d11bd9b4deb3d48d683430e1d&v=4" alt="not me" width="80" height="80">
+  <h3 align="center">maybe me?</h3>
+</p>
+
+### About me
+Harry is a currently work in project human with unknown capacities. Sometimes he can do some cool stuff with computers, like:
+- programming in Python
+- building a full fonctionnal web server and things like that
+- idk one time i used photoshop i created a espagonl and people found this funny so i'm a dEsIgNeR :relaxed:
