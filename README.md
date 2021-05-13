@@ -24,4 +24,4 @@ Harry is a currently work in project human with unknown capacities. Sometimes he
 - idk one time i used photoshop i created a flying fish and people found this funny so i'm a dEsIgNeR :relaxed:
 
 ### Contact me
-[@HarryHauer](https://twitter.com/harrypfff) - harry@babychou.me
+[@HarryHauer](https://twitter.com/harrypfff) - contact@babychou.me
