@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 </p>
 
 ### About me
-Harry is a currently work in project human with unknown capacities. Sometimes he can do some cool stuff with computers, like:
-- programming a bit in Python, C++ / doing web stuff
-- repairing, maintaining, and making servers or personals computer
-- idk one time i used photoshop i created a flying fish and people found this funny so i'm a dEsIgNeR :relaxed:
-Pronouns : he/him
+I am currently work in project person who loves puters!. Sometimes i can do some cool stuff with puters, like:
+- programming a bit in Python, web
+- have a lot of understanting into tech
+I am also planning on learning about ML, Data Science etc!! 
 
 ### Contact me
 [harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me)
