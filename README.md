@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me
 I am currently work in project person who loves puters!. Sometimes i can do some cool stuff with puters, like:
-- programming a bit in Python, web
+- programming with Python, C++ (currently doing stuff to get better at it), and web techs like HTML/CSS (i have some knowledges about PHP/JS but really need to work on it)
 - have a lot of understanting into tech
 I am also planning on learning about ML, Data Science etc!! 
 
