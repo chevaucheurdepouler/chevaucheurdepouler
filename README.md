@@ -16,11 +16,11 @@ Here are some ideas to get you started:
   <img src="https://avatars.githubusercontent.com/u/37616962?s=460&u=3ef9ae978dc7a56d11bd9b4deb3d48d683430e1d&v=4" alt="not me" width="80" height="80">
 </p>
 
-### About me
+### About me 🌱
 I am currently work in project person who loves puters!. Sometimes i can do some cool stuff with puters, like:
-- programming with Python, C++ (currently doing stuff to get better at it), and web techs like HTML/CSS (i have some knowledges about PHP/JS but really need to work on it)
+- programming with Python, C++ (currently doing stuff to get better at it), and techs like HTML/CSS (and Sass)/JS (i have some knowledges about PHP but really need to work on it)
 - have a lot of understanting into tech
 I am also planning on learning about ML, Data Science etc!! 
 
-### Contact me
+### Contact me 👯
 [harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [kaggle](https://www.kaggle.com/geekcat)
