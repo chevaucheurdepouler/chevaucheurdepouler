@@ -22,5 +22,6 @@ I am currently work in project person who loves puters!. Sometimes i can do some
 - have a lot of understanting into tech
 I am also planning on learning about ML, Data Science etc!! 
 
+Fun fact : my fave languages / frameworks rn are python, c++ and vue.js :)
 ### Contact me 👯
 [harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [kaggle](https://www.kaggle.com/geekcat)
