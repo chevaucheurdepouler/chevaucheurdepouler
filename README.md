@@ -24,4 +24,4 @@ I am also planning on learning about ML, Data Science etc!!
 
 Fun fact : my fave languages / frameworks rn are python, c++ and vue.js :)
 ### Contact me 👯
-[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [kaggle](https://www.kaggle.com/geekcat)
+[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [kaggle](https://www.kaggle.com/geekcat) - [codewars](https://www.codewars.com/users/geekcatfr)
