@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/37616962?s=460&u=3ef9ae978dc7a56d11bd9b4deb3d48d683430e1d&v=4" alt="not me" width="80" height="80">
-</p>
+</div>
 
 ### About me 🌱
 I am currently work in project person who loves puters!. Sometimes i can do some cool stuff with puters, like:
@@ -25,3 +25,5 @@ I am also planning on learning about ML, Data Science etc!!
 Fun fact : my fave languages / frameworks rn are python, c++ and vue.js :)
 ### Contact me 👯
 [harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [kaggle](https://www.kaggle.com/geekcat) - [codewars](https://www.codewars.com/users/geekcatfr)
+
+<img src="https://www.codewars.com/users/geekcatfr/badges/micro" alt="codewars lvl">
