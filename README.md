@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### About me 🌱
 I am currently work in project person who loves puters!. Sometimes i can do some cool stuff with puters, like:
-- programming with Python, C++ (currently doing stuff to get better at it), and techs like HTML/CSS (and Sass)/JS (i have some knowledges about PHP but really need to work on it)
-- have a lot of understanting into tech
+- programming with Python, C++ (currently doing stuff to get better at it), and techs like Vue and NextJS.
+- i kinda like sysadmin related things too, planning on building a personal server at home
 I am also planning on learning about ML, Data Science etc!! 
 
 Fun fact : my fave languages / frameworks rn are python, c++ and vue.js :)
