@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 </div>
 
 ### About me 🌱
-I am currently work in project person who loves puters!. Sometimes i can do some cool stuff with puters, like:
-- programming with Python, C++ (currently doing stuff to get better at it), and techs like Vue and NextJS.
+I am currently work in project person who loves puters and fashion!. Sometimes i can do some cool stuff with puters, like:
+- programming with Python, Javascript (React, Vue). 
 - i kinda like sysadmin related things too, planning on building a personal server at home
-I am also planning on learning about ML, Data Science etc!! 
 
-Fun fact : my fave languages / frameworks rn are python, c++ and vue.js :)
+Fun fact : I also wanna limit myself to only two languages (omw to teach myself Rust, and get better knowledge about JS/TS).
 ### Contact me 👯
-[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [kaggle](https://www.kaggle.com/geekcat) - [codewars](https://www.codewars.com/users/geekcatfr)
+[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr)
 
+Codewars level:
 <img src="https://www.codewars.com/users/geekcatfr/badges/micro" alt="codewars lvl">
