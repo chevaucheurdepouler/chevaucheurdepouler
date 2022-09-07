@@ -7,6 +7,6 @@
 i enjoy computers, coding and fashion:) i sometimes write code in rust, python, and js. i also still can't decide what framework i should work on...
 
 ### Contact 👯
-[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [portfolio](https://harryyy.me)
+[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat) - [wtv this is](https://harryyy.me)
 
 
