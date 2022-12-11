@@ -4,9 +4,9 @@
 <a href="https://www.codewars.com/users/geekcatfr">
 <img src="https://www.codewars.com/users/geekcatfr/badges/micro" alt="codewars lvl"></a>
 
-i enjoy computers, coding and fashion:) i sometimes write code in rust, python, and js. i also still can't decide what framework i should work on...
+i enjoy computers, coding and fashion:) i do write code in rust, python, and js.
 
 ### Contact 👯
-[harry@babychou.me](mailto:harry@babychou.me) - [website](https://babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat) - [wtv this is](https://harryyy.me)
+[harry@wetdreams.fr](mailto:blehh@babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
 
 
