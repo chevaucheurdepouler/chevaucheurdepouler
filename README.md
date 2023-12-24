@@ -7,6 +7,6 @@
 i enjoy computers, coding and fashion:) i do write code in rust, python, and js.
 
 ### Contact 👯
-[harry@wetdreams.fr](mailto:blehh@babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
+[threadingtheneedle@babychou.me](mailto:blehh@babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
 
 
