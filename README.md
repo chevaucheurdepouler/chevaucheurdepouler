@@ -4,9 +4,13 @@
 <a href="https://www.codewars.com/users/geekcatfr">
 <img src="https://www.codewars.com/users/geekcatfr/badges/micro" alt="codewars lvl"></a>
 
-i enjoy computers, coding and fashion:) i do write code in rust, python, and js.
+i enjoy computers, coding and fashion:) i code in rust, python, and js.
+objectives for 2024 :
+- [] learning c and lower level languages
+- [] learning statistics for machine learning
+- [] finishing a project ??
 
 ### Contact 👯
-[threadingtheneedle@babychou.me](mailto:blehh@babychou.me) - [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
+[codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
 
 
