@@ -6,9 +6,9 @@
 
 i enjoy computers, coding and fashion:) i code in rust, python, and js.
 objectives for 2024 :
-- [] learning c and lower level languages
-- [] learning statistics for machine learning
-- [] finishing a project ??
+- [ ] learning c and lower level languages
+- [ ] learning statistics for machine learning
+- [ ] finishing a project ??
 
 ### Contact 👯
 [codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
