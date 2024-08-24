@@ -11,6 +11,10 @@ objectives for 2024 :
 - [ ] finishing a project ??
 
 ### Contact 👯
-[codewars](https://www.codewars.com/users/geekcatfr) - [rootme](https://www.root-me.org/blehhpussycat)
+- [codewars](https://www.codewars.com/users/geekcatfr)
+- [rootme](https://www.root-me.org/blehhpussycat)
+- [fediverse](https://fish.hypervirtual.world/@notharry123)
+- [blog](https://hypervirtual.world)
+- [matrix](https://matrix.to/#/@harry123:hypervirtual.world)
 
 
