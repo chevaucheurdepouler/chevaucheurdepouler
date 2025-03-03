@@ -4,17 +4,17 @@
 <a href="https://www.codewars.com/users/geekcatfr">
 <img src="https://www.codewars.com/users/geekcatfr/badges/micro" alt="codewars lvl"></a>
 
-i enjoy computers, coding and fashion:) i code in rust, python, and js.
-objectives for 2024 :
-- [ ] learning c and lower level languages
-- [ ] learning statistics for machine learning
-- [ ] finishing a project ??
+hey! i'm harry123. i have been interested in compsci since years now. i started on an old ibm pc, and here i am, hacking stupid stuff and trying to focus on building interesting things.
+These last times, i have been pretty interested by low level languages such as rust, and assembly, peer to peer and alternative networking technologies, and building greener tech.
+
+i also enjoy building more artsy things, and i am curious about everything that comes about music.
+
+you can follow me if you are interested about what i'm building, or even contact me if you need any help!
 
 ### Contact 👯
 - [codewars](https://www.codewars.com/users/geekcatfr)
 - [rootme](https://www.root-me.org/blehhpussycat)
 - [fediverse](https://fish.hypervirtual.world/@notharry123)
 - [blog](https://hypervirtual.world)
-- [matrix](https://matrix.to/#/@harry123:hypervirtual.world)
 
 
